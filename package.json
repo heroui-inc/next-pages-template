@@ -11,7 +11,7 @@
   "dependencies": {
     "@heroui/button": "2.2.9",
     "@heroui/code": "2.2.6",
-    "@heroui/input": "2.4.8",
+    "@heroui/input": "2.4.9",
     "@heroui/kbd": "2.2.6",
     "@heroui/link": "2.2.7",
     "@heroui/listbox": "2.3.9",
