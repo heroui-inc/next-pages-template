@@ -1,21 +1,20 @@
 # Next.js & HeroUI Template
 
-This is a template for creating applications using Next.js 14 (pages directory) and HeroUI (v2).
+This is a template for creating applications using Next.js 15 (pages directory) and HeroUI (v3).
 
 [Try it on CodeSandbox](https://githubbox.com/heroui-inc/next-pages-template)
 
-> Note: Since Next.js 14, the pages router is recommend migrating to the [new App Router](https://nextjs.org/docs/app) to leverage React's latest features
+> Note: Since Next.js 15, the pages router is recommend migrating to the [new App Router](https://nextjs.org/docs/app) to leverage React's latest features
 >
 > Read more: [Pages Router](https://nextjs.org/docs/pages)
 
 ## Technologies Used
 
-- [Next.js 14](https://nextjs.org/docs/getting-started)
-- [HeroUI](https://heroui.com)
+- [Next.js 15](https://nextjs.org/docs/getting-started)
+- [HeroUI v3](https://heroui.com)
 - [Tailwind CSS](https://tailwindcss.com)
 - [Tailwind Variants](https://tailwind-variants.org)
 - [TypeScript](https://www.typescriptlang.org)
-- [Framer Motion](https://www.framer.com/motion)
 - [next-themes](https://github.com/pacocoursey/next-themes)
 
 ## How to Use
@@ -39,16 +38,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-### Setup pnpm (optional)
-
-If you are using `pnpm`, you need to add the following code to your `.npmrc` file:
-
-```bash
-public-hoist-pattern[]=*@heroui/*
-```
-
-After modifying the `.npmrc` file, you need to run `pnpm install` again to ensure that the dependencies are installed correctly.
 
 ## License
 
