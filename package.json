@@ -10,8 +10,8 @@
     "lint": "eslint --fix"
   },
   "dependencies": {
-    "@heroui/react": "3.2.2",
-    "@heroui/styles": "3.2.2",
+    "@heroui/react": "3.2.3",
+    "@heroui/styles": "3.2.3",
     "clsx": "2.1.1",
     "intl-messageformat": "10.7.16",
     "next": "16.2.6",
@@ -41,7 +41,7 @@
     "globals": "16.0.0",
     "postcss": "8.5.6",
     "prettier": "3.5.3",
-    "tailwind-variants": "3.2.2",
+    "tailwind-variants": "3.3.0",
     "tailwindcss": "4.1.11",
     "typescript": "5.6.3"
   }
